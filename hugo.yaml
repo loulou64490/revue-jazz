@@ -1,0 +1,49 @@
+# Hugo 122.0 (y'a des bugs sur les plus récentes avec ce thème)
+baseURL: https://revue-jazz.netlify.app
+defaultContentLanguage: fr
+title: Revue Jazz
+theme: PaperMod
+disqusShortname: revue-jazz
+enableRobotsTXT: True
+params:
+  homeInfoParams:
+    Title: Revue Jazz
+    Content: Quelques recommandations de jazz proposés par Louis
+  comments: True
+  title: Revue Jazz
+  description: Quelques recommandations de jazz proposés par Louis
+  DateFormat: Monday 2 January 2006
+  defaultTheme: light
+  disableThemeToggle: True
+  disableScrollToTop: True
+  socialIcons:
+    - name: "instagram"
+      title: "Instagram"
+      url: "https://www.instagram.com/loulou64490/"
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
+    - identifier: search
+      name: recherche
+      url: /recherche/
+      weight: 20
+    - name: tags
+      url: /tags/
+      weight: 30
