@@ -6,20 +6,15 @@ theme: PaperMod
 disqusShortname: revue-jazz
 enableRobotsTXT: True
 params:
+  ShowPostNavLinks: True
   homeInfoParams:
     Title: Revue Jazz
-    Content: Quelques recommandations de jazz proposés par Louis
+    Content: Quelques recommandations de jazz proposées par Louis
   comments: True
-  title: Revue Jazz
-  description: Quelques recommandations de jazz proposés par Louis
   DateFormat: Monday 2 January 2006
   defaultTheme: light
   disableThemeToggle: True
   disableScrollToTop: True
-  socialIcons:
-    - name: "instagram"
-      title: "Instagram"
-      url: "https://www.instagram.com/loulou64490/"
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -37,13 +32,15 @@ outputs:
 menu:
   main:
     - identifier: archives
-      name: archives
+      name: Archives
       url: /archives/
       weight: 10
     - identifier: search
-      name: recherche
+      name: Recherche
       url: /recherche/
       weight: 20
-    - name: tags
+    - name: Tags
       url: /tags/
       weight: 30
+    - name: À propos
+      url: /à-propos
