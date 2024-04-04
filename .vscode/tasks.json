@@ -7,13 +7,11 @@
             "label": "preview",
             "type": "shell",
             "command": "hugo server",
-            "problemMatcher": []
-        },
-        {
-            "label": "new post",
-            "type": "shell",
-            "command": "./new_post.sh",
-            "problemMatcher": []
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }

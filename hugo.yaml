@@ -1,4 +1,5 @@
 # Hugo 122.0 (y'a des bugs sur les plus récentes avec ce thème)
+# hugo new --kind post "posts/x.md"
 baseURL: https://revue-jazz.netlify.app
 defaultContentLanguage: fr
 title: Revue Jazz
