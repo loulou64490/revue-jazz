@@ -1,22 +1,23 @@
 +++
 title = "License"
 comments= false
+disableAnchoredHeadings= true
 +++
 # CC BY 4.0 DEED
+### Attribution 4.0 International
+## Vous êtes autorisé à :
 
-## You are free to:
+1.  **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats pour toute utilisation, y compris commerciale.
+2.  **Adapter** — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.
+3.  L'Offrant ne peut retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
 
-1.  **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
-2.  **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-3.  The licensor cannot revoke these freedoms as long as you follow the license terms.
+## Selon les conditions suivantes :
 
-## Under the following terms:
+1.  **Attribution** — Vous devez [créditer](https://creativecommons.org/licenses/by/4.0/deed.fr#ref-appropriate-credit) l'Œuvre, intégrer un lien vers la licence et [indiquer](https://creativecommons.org/licenses/by/4.0/deed.fr#ref-indicate-changes) si des modifications ont été effectuées à l'Oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
+2.  **Pas de restrictions complémentaires** — Vous n'êtes pas autorisé à appliquer des conditions légales ou des [mesures techniques](https://creativecommons.org/licenses/by/4.0/deed.fr#ref-technological-measures) qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
 
-1.  **Attribution** — You must give [appropriate credit](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1#ref-appropriate-credit) , provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1#ref-indicate-changes) . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-2.  **No additional restrictions** — You may not apply legal terms or [technological measures](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1#ref-technological-measures) that legally restrict others from doing anything the license permits.
+## Notes:
 
-## Notices:
+Vous n'êtes pas dans l'obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l'utilisation que vous souhaitez faire est couverte par une [exception](https://creativecommons.org/licenses/by/4.0/deed.fr#ref-exception-or-limitation) .
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable [exception or limitation](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1#ref-exception-or-limitation) .
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as [publicity, privacy, or moral rights](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1#ref-publicity-privacy-or-moral-rights) may limit how you use the material.
+Aucune garantie n'est donnée. Il se peut que la licence ne vous donne pas toutes les permissions nécessaires pour votre utilisation. Par exemple, certains droits comme [les droits moraux, le droit des données personnelles et le droit à l'image](https://creativecommons.org/licenses/by/4.0/deed.fr#ref-publicity-privacy-or-moral-rights) sont susceptibles de limiter votre utilisation.

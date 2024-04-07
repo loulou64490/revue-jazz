@@ -2,7 +2,7 @@
 title = "Comment j'ai découvert le jazz..."
 date = 2023-11-01
 description="Recommandation n°4"
-tags=['trio','groupe','accoustique','électro','royaume-uni','uk-jazz']
+tags=['trio','groupe','royaume-uni','uk-jazz']
 [cover]
 image="posts/4.jpg"
 caption="Jon Scott, Chris Illingworth et Nick Blacka"

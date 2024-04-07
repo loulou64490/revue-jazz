@@ -2,7 +2,7 @@
 title = 'Un pianiste français remarquable'
 date = 2023-09-01
 description="Recommandation n°3"
-tags=['artiste','album','piano','france','brésil','brésil']
+tags=['artiste','album','piano','france','brésil']
 [cover]
 image="posts/3.jpg"
 caption="Laurent Coulondre"

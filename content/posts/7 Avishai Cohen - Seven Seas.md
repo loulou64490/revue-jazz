@@ -2,7 +2,7 @@
 title = "Seven Seas, one album"
 date = 2023-09-06
 description="Recommandation n°7"
-tags=['album','israël','contrebasse']
+tags=['album','israël','contrebasse','accoustique']
 [cover]
 image="posts/7.jpg"
 caption="Avishai Cohen"

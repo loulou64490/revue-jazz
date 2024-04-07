@@ -2,7 +2,7 @@
 title = "Featuring innatendu"
 date = 2023-09-10
 description="Recommandation n°8"
-tags=['album','accoustique','featuring']
+tags=['album','accoustique','featuring','trompette']
 [cover]
 image="posts/8.jpg"
 caption="Lady Gaga et Brian Newman"
