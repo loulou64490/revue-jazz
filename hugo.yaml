@@ -10,7 +10,7 @@ params:
   ShowPostNavLinks: True
   homeInfoParams:
     Title: Revue Jazz
-    Content: Quelques recommandations de jazz proposées par Louis
+    Content: Quelques recommandations de jazz actuel proposées par Louis
   comments: True
   DateFormat: Monday 2 January 2006
   defaultTheme: light

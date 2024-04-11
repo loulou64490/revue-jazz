@@ -2,7 +2,7 @@
 title = "Un peu de groove français"
 date = 2024-04-07
 description="Recommandation n°16"
-tags=['groove','france','electro','hip-hop','quintet']
+tags=['groove','france','electro','hip-hop','quintet','groupe']
 [cover]
 image="posts/16.jpg"
 caption=""
