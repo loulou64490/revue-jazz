@@ -1,7 +1,7 @@
 +++
 title = "Duo aux sonorités espagnoles"
 date = 2024-03-28T19:37:41+01:00
-description="Recommandation n°15"
+description="Recommandation n°15 - Tomatito et Michel Camilo"
 tags=['duo','piano','guitare','accoustique','espagne','flamenco','album']
 [cover]
 image="posts/15.jpg"

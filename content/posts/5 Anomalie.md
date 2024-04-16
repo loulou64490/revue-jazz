@@ -1,7 +1,7 @@
 +++
 title = "Quand l'électro rejoint le jazz"
 date = 2023-09-02
-description="Recommandation n°5"
+description="Recommandation n°5 - Anomalie"
 tags=['artiste','solo','électro','piano']
 [cover]
 image="posts/5.jpg"

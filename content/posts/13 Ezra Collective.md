@@ -1,7 +1,7 @@
 +++
 title = "Quintet multystyle dansant !"
 date = 2024-03-27
-description="Recommandation n°13"
+description="Recommandation n°13 - Ezra Collective"
 tags=['groupe','afrique','qintet','accoustique','hip-hop','royaume-uni','uk-jazz']
 [cover]
 image="posts/13.jpg"

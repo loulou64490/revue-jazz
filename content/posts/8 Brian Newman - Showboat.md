@@ -1,7 +1,7 @@
 +++
 title = "Featuring innatendu"
 date = 2023-09-10
-description="Recommandation n°8"
+description="Recommandation n°8 - Showboat, par Brian Newman"
 tags=['album','accoustique','featuring','trompette']
 [cover]
 image="posts/8.jpg"

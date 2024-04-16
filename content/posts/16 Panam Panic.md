@@ -1,13 +1,13 @@
 +++
 title = "Un peu de groove français"
 date = 2024-04-07
-description="Recommandation n°16"
+description="Recommandation n°16 - Panam Panic"
 tags=['groove','france','electro','hip-hop','quintet','groupe']
 [cover]
 image="posts/16.jpg"
-caption=""
+caption="Robin Notte, Alexandre Herichon, Pierre Elgrishi, Lucas Saint-Cricq et Tao Ehrlich"
 +++
-Aujourd'hui, je vais vous présenter un quintet français : [Panam Panic](https://fr.wikipedia.org/wiki/Panam_Panic). C'est un groupe de jazz très moderne mélangeant le funk, la fusion, l'électro et le hip-hop pour en faire du groove.  
+Aujourd'hui, je vais vous présenter un quintet français : Panam Panic. C'est un groupe de jazz très moderne mélangeant le funk, la fusion, l'électro et le hip-hop pour en faire du groove.  
 
 Mais qu'est-ce que le groove ? Enfaite, ce n'est pas vraiment un style de musique mais avant tout une expression que vous connaissez surement : une musique qui groove est une musique qui donne envie de danser, ou du moins battre le tempo avec le pied et on sent que la musique est bonne comme dirait Goldman.  
 Pourtant, on peut aussi considérer le groove comme un nouvel élan dans le Jazz actuel que je décrirais par des thèmes plutôt simples, fortement posés sur l'harmonie, cette dernière composée d'une courte grille d'accords enrichies, le tout accompagné d'une batterie très hip-hop, très fournie. Dans l'ensemble, les sonorités sont riches mais abordables, et cette musique provoque cette sensation de profondeur, ce sentiment qui t'entraine. C'est beaucoup ce que je ressens chez Panam Panic et d'autre artiste similaire de ce mouvement.  

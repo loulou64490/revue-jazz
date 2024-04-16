@@ -1,7 +1,7 @@
 +++
 title = "Snarky Puppy et le Jazz fusion"
 date = 2023-09-21
-description="Recommandation n°11"
+description="Recommandation n°11 - Snarky Puppy"
 tags=['groupe','jazz fusion','funk','electro']
 [cover]
 image="posts/11.jpg"

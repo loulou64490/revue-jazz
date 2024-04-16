@@ -1,6 +1,7 @@
 +++
 title = "À propos"
 comments= false
+searchHidden= true
 [cover]
 image="moi.jpg"
 caption="Moi"

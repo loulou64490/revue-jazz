@@ -7,6 +7,9 @@ theme: PaperMod
 disqusShortname: revue-jazz
 enableRobotsTXT: True
 params:
+  env: production
+  title: Revue Jazz
+  description: Quelques recommandations de jazz actuel proposées par Louis
   ShowPostNavLinks: True
   homeInfoParams:
     Title: Revue Jazz
@@ -45,3 +48,4 @@ menu:
       weight: 30
     - name: À propos
       url: /à-propos
+      weight: 40

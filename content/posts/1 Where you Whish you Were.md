@@ -1,7 +1,7 @@
 +++
 title= 'Duo au sonorités orientales'
 date= 2023-08-31
-description="Recommandation n°1"
+description="Recommandation n°1 - Where you Whish you Were, par Bill Laurance et Michael League"
 tags= ['duo','orient','piano','oud','accoustique']
 [cover]
 image = "posts/1.jpg"

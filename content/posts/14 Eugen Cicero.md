@@ -1,7 +1,7 @@
 +++
 title = "Quand le classique rejoint le Jazz"
 date = 2024-03-28T10:25:41+01:00
-description="Recommandation n°14"
+description="Recommandation n°14 - Eugen Cicero"
 tags=['classique','accoustique','piano','trio']
 [cover]
 image="posts/14.jpg"

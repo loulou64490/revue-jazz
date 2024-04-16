@@ -1,7 +1,7 @@
 +++
 title = "40 melodies, 1 album"
 date = 2023-09-13
-description="Recommandation n°10"
+description="Recommandation n°10 - 40 melodies, par Ibrahim Maalouf"
 tags=['duo','featuring','trompette','guitare']
 [cover]
 image="posts/10.jpg"
