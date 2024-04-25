@@ -1,6 +1,7 @@
 +++
 title = "License"
 comments= false
+searchHidden= true
 disableAnchoredHeadings= true
 +++
 # CC BY 4.0 DEED

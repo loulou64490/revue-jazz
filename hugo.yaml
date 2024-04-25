@@ -1,4 +1,4 @@
-# Hugo 122.0 (y'a des bugs sur les plus récentes avec ce thème)
+# Hugo 122.0 max
 # hugo new --kind post "posts/x.md"
 baseURL: https://revue-jazz.pages.dev/
 defaultContentLanguage: fr
