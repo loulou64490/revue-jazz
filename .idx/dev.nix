@@ -7,6 +7,7 @@
   idx = {
     extensions = [
        "yzhang.markdown-all-in-one"
+       "MS-CEINTL.vscode-language-pack-fr"
     ];
   };
 }
