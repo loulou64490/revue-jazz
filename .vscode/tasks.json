@@ -17,6 +17,14 @@
             "presentation": {
                 "reveal": "silent"
               }
+        },
+        {
+            "label": "new post",
+            "type": "shell",
+            "command":".vscode/new.sh",
+            "windows": {
+                "command": ""
+              },
         }
     ]
 }
