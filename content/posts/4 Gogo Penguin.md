@@ -1,6 +1,6 @@
 +++
 title = "Comment j'ai découvert le jazz..."
-date = 2023-11-01
+date = 2023-09-02
 description="Recommandation n°4 - Gogo Penguin"
 tags=['trio','groupe','royaume-uni','uk-jazz']
 [cover]
