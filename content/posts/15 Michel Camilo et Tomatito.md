@@ -20,5 +20,10 @@ Ce duo se caractérise par la puissance du jeu [Michel Camilo](https://fr.wikipe
 <iframe width="100%" height="150" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fspainforever&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
 {{< /rawhtml >}}
 D'ailleurs, l'album "Spain Forever Again", la suite de cette aventure, va sortir le 26 avril prochain ! (et j'ai hâte, voyez-vous)
+> Edit : L'album est sortie, je le rajoute :  
+
+{{< rawhtml >}}
+<iframe width="100%" height="150" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fspainforeveragain&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
+{{< /rawhtml >}}
 
 Très bonne écoute !

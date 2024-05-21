@@ -7,7 +7,7 @@ tags=['uk-jazz','royaume-uni','artiste','hip-hop','rap']
 image="posts/20.jpg"
 caption="Alfa Mist"
 +++
-Je vous avais déjà parlé du UK-Jazz, mais je souhaitais vous présenter une figure que je pense incontournable : [Alfa Mist](https://en.wikipedia.org/wiki/Alfa_Mist). Ce style se caractérise par un jeu virtuose, aux harmonies complexes et aux influences variés tels que les musiques africaines ou encore le [Bebop](https://fr.wikipedia.org/wiki/Bebop). 
+Je vous avais déjà parlé du UK-Jazz, mais je souhaitais vous présenter une figure que je pense incontournable : [Alfa Mist](https://en.wikipedia.org/wiki/Alfa_Mist). Le UK-Jazz se caractérise par un jeu virtuose, aux harmonies et rythmes riches et aux influences variés tels que les musiques africaines ou encore le [Bebop](https://fr.wikipedia.org/wiki/Bebop). 
 
 Alfa Mist, claviériste mais aussi rappeur, nous apporte de nouvelles sonorités par des harmonies et des figures rytmiques osées pour en faire une  musique unique et reconnaissable. Il nous emmène en voyage dans une musique rétrospective, où il alterne morceaux chantés, rappés ou instrumentaux. 
 
