@@ -1,11 +1,7 @@
-# Revue Jazz
-Fichiers de configuration et postes pour la génération du site
-
+![](banner.png)
 ## Ressources
-Framework : [Hugo](https://github.com/gohugoio/hugo) v 0.122.0 maximum  
-
+Framework : [Hugo](https://github.com/gohugoio/hugo) 0.122.0  
 Thème : [PaperMod](https://github.com/adityatelange/hugo-PaperMod/)  
-
 Hébergement : [Cloudfare Pages](https://developers.cloudflare.com/pages/)
 
 ## License
