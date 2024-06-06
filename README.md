@@ -1,6 +1,6 @@
 ![](banner.png)
 ## Ressources
-Framework : [Hugo](https://github.com/gohugoio/hugo)
+Framework : [Hugo](https://github.com/gohugoio/hugo)  
 Thème : [PaperMod](https://github.com/adityatelange/hugo-PaperMod/)  
 Hébergement : [Cloudfare Pages](https://developers.cloudflare.com/pages/)
 
