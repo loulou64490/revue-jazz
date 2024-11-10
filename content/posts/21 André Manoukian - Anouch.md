@@ -2,7 +2,6 @@
 title = "La puissance des voix"
 date = 2024-05-29T10:01:03Z
 description = "Recommandation n°21 - Anouch, par André Manoukian"
-tags = ['france', 'accoustique', 'oriental', 'arménie']
 [cover]
 image = "posts/21.jpg"
 caption = "André Manoukian"

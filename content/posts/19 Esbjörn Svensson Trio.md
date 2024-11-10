@@ -2,7 +2,6 @@
 title = "Trio rafraichissant"
 date = 2024-05-16T18:15:31Z
 description = "Recommandation n°19 - Esbjörn Svensson Trio"
-tags = ['suede', 'groupe', 'trio','Jazz nordique']
 [cover]
 image = "posts/19.jpg"
 caption = "Magnus Östrom, Esbjörn Svensson & Dan Berglund"

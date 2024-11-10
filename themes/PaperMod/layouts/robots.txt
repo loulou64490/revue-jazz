@@ -4,4 +4,5 @@ Disallow:
 {{- else }}
 Disallow: /
 {{- end }}
+Disallow: /tags/
 Sitemap: {{ "sitemap.xml" | absURL }}

@@ -1,23 +1,19 @@
-# Hugo 122.0 max
 # hugo new --kind post "posts/x.md"
+# TODO: enlever les tags
 baseURL: https://revuejazz.fr/
 defaultContentLanguage: fr
 title: Revue Jazz
 theme: PaperMod
-disqusShortname: revue-jazz
 enableRobotsTXT: True
 params:
   env: production
   title: Revue Jazz
   description: Quelques recommandations de jazz actuel proposées par Louis
-  ShowPostNavLinks: True
   homeInfoParams:
     Title: Revue Jazz
     Content: Quelques recommandations de jazz actuel proposées par Louis
-  comments: True
   DateFormat: Monday 2 January 2006
   defaultTheme: light
-  disableThemeToggle: True
   disableScrollToTop: True
   fuseOpts:
     isCaseSensitive: false
@@ -26,7 +22,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: [ "title", "permalink", "summary", "content" ]
 
 outputs:
   home:
@@ -43,9 +39,6 @@ menu:
       name: Recherche
       url: /recherche/
       weight: 20
-    - name: Tags
-      url: /tags/
-      weight: 30
     - name: À propos
       url: /à-propos
-      weight: 40
+      weight: 30

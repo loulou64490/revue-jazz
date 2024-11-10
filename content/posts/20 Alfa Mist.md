@@ -2,7 +2,6 @@
 title = "Oser la tension"
 date = 2024-05-20T17:08:38Z
 description = "Recommandation n°20 - Alfa Mist"
-tags = ['uk-jazz', 'royaume-uni', 'artiste', 'hip-hop', 'rap']
 [cover]
 image = "posts/20.jpg"
 caption = "Alfa Mist"
