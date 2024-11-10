@@ -1,6 +1,6 @@
 # Hugo 122.0 max
 # hugo new --kind post "posts/x.md"
-baseURL: https://revue-jazz.pages.dev/
+baseURL: https://revuejazz.fr/
 defaultContentLanguage: fr
 title: Revue Jazz
 theme: PaperMod

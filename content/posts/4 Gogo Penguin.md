@@ -7,7 +7,7 @@ tags=['trio','groupe','royaume-uni','uk-jazz']
 image="posts/4.jpg"
 caption="Jon Scott, Chris Illingworth et Nick Blacka"
 +++
-J’aimerais vous parler du groupe qui m’a fait découvrir le jazz actuel, [Gogo Penguin](https://fr.wikipedia.org/wiki/GoGo_Penguin). C’est un trio piano/basse/batterie du royaume aux riffs rythmés mais toujours très harmoniques. C’est très facile à écouter et ils sont réguliers dans leurs albums, je veux dire qu’ils arrivent à se renouveler tout en gardant l’esprit principal de leur musique.
+J’aimerais vous parler du groupe qui m’a fait découvrir le jazz actuel, [Gogo Penguin](https://fr.wikipedia.org/wiki/GoGo_Penguin). Basé au royaume-uni, c'est un trio piano/contrebasse/batterie aux riffs rythmés mais toujours très mélodieux. C’est très facile à écouter et ils sont réguliers dans leurs albums, je veux dire qu’ils arrivent à se renouveler tout en gardant l’esprit principal de leur musique.
 
 Je pense que ça pourra plaire à beaucoup de personne donc n’hésitez pas à lancer leur top titre pour découvrir ce qu’ils font !
 {{< rawhtml >}}

@@ -13,7 +13,7 @@ Deux albums chez lui m’ont beaucoup marqué, le premier c’est “Meva Festa�
 {{< rawhtml >}}
 <iframe width="100%" height="150" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fn6gsf5zvvjh0h&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
 {{< /rawhtml >}}
-Le second est “A trip in Marseille”, un album piano solo produit par le label [Paradis Improvisé](https://www.paradis-improvise.com/). Cet album mélange intimité et énergie, sublimé par la virtuosité émouvante de Laurent Coulondre.
+Le second est “A trip in Marseille”, un album piano solo produit par le label [Paradis Improvisé](https://www.paradis-improvise.com/). Cet album mélange intimité et énergie, sublimé par la virtuosité pourtant émouvante de Laurent Coulondre.
 {{< rawhtml >}}
 <iframe width="100%" height="150" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fjhsj8rkhckz6q&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
 {{< /rawhtml >}}

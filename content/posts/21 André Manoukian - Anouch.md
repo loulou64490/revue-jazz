@@ -1,16 +1,21 @@
 +++
 title = "La puissance des voix"
 date = 2024-05-29T10:01:03Z
-description="Recommandation n°21 - Anouch, par André Manoukian"
-tags=['france','accoustique','oriental','arménie']
+description = "Recommandation n°21 - Anouch, par André Manoukian"
+tags = ['france', 'accoustique', 'oriental', 'arménie']
 [cover]
-image="posts/21.jpg"
-caption="André Manoukian"
+image = "posts/21.jpg"
+caption = "André Manoukian"
 +++
-Vous connaissez surement [André Manoukian](https://fr.wikipedia.org/wiki/Andr%C3%A9_Manoukian), chroniqueur chez France Inter, mais connaissez-vous sa musique ? Elle vaut le détour, je vous assure.
 
-Né de parents arméniens, André Manoukian nous partage une musique d'influence : il nous emmène faire un long voyage en orient, mais sans oublier les origines du Jazz américain.  
-Je vous partage aujourd'hui l'album Anouch que je trouve délicieux Les harmonies coulent, les rythmes dansent et l'oreille déguste. André Manoukian a su mettre en valeur des voix parfaitement harmonisées qui donnent à chaque morceau une puissance formidable et subliment l'album.
+Vous connaissez surement [André Manoukian](https://fr.wikipedia.org/wiki/Andr%C3%A9_Manoukian), chroniqueur chez France
+Inter, mais connaissez-vous sa musique ? Elle vaut le détour, je vous assure.
+
+Né de parents arméniens, André Manoukian nous partage une musique d'influence : il nous emmène faire un long voyage en
+orient, mais sans oublier les origines du Jazz américain.  
+Je vous partage aujourd'hui l'album Anouch que je trouve délicieux. Les harmonies coulent, les rythmes dansent et
+l'oreille déguste, car il a su mettre en valeur des voix harmonisées qui donnent à chaque morceau
+une puissance formidable.
 
 Assez métaphoré et laissons place à l'écoute !
 {{< rawhtml >}}
