@@ -10,8 +10,9 @@ caption = "Vincent Peirani & Émile Parisien"
 > Vous vous rappelez des [Égarés ](/posts/2-les-égarés/)? Je vais vous parler ici du duo entre le saxophoniste et
 > l’accordéoniste
 
-On ne les nomme plus, Émile Parisien et Vincent Peirani s’incarnent une fois de plus dans un jazz acoustique,
-minimaliste et innovant dans ces deux albums enregistrés en duo.  
+On ne les nomme plus, [Émile Parisien](https://fr.wikipedia.org/wiki/%C3%89mile_Parisien)
+et [Vincent Peirani](https://fr.wikipedia.org/wiki/Vincent_Peirani) s’incarnent une fois de plus dans un jazz
+acoustique, minimaliste et innovant dans ces deux albums enregistrés en duo.  
 À la recherche de l’émotion, leur technique, mais aussi
 leur maitrise de la dynamique et du silence donne à leur jeu ce caractère singulier et reconnaissable. Et de leur
 démarcation apparait la beauté de leur musique. Enfin je pense.

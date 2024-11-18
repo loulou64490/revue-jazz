@@ -1,5 +1,11 @@
+# PROCESSUS CRÉATION ARTICLE
+# Commande pour créer un article
 # hugo new --kind post "posts/x.md"
-# TODO: enlever les tags
+# Changer la date
+# Renommer le fichier
+# Vérifier si les artistes cités ont une page wikipédia
+# Renommer description des images
+# Renommer description
 baseURL: https://revuejazz.fr/
 defaultContentLanguage: fr
 title: Revue Jazz
