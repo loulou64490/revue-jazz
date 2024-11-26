@@ -1,5 +1,5 @@
 +++
-title = "Encore du groove"
+title = "Encore de l'électro"
 date = 2024-11-10
 description = "Recommandation n°22 - Léon Phal"
 [cover]
@@ -8,7 +8,7 @@ caption = "Zacharie Ksyk, Rémi Bouyssière, Léon Phal, Arthur Alard & Gauthier
 +++
 
 Ok, je suis un grand fan de groove/électro, mais là, on ne peut pas passer à coter de Léon Phal. C’est un saxophoniste
-anglais, qui utilise la richesse des synthétiseurs et l’efficacité de l'harmonisation, même simple, pour parfaire sa
+français, qui utilise la richesse des synthétiseurs et l’efficacité de l'harmonisation, même simple, pour parfaire sa
 musique.
 
 Si vous êtes sensible à ce genre de musique, écouter Léon Phal est une expérience singulière, car on y
