@@ -1,14 +1,17 @@
 +++
 title = "À propos"
-comments= false
-searchHidden= true
+comments = false
+searchHidden = true
 [cover]
-image="moi.jpg"
-caption="Moi"
+image = "/images/moi.jpg"
+caption = "Moi"
 +++
-Bonjour à tous !  
-Je m’appelle Louis Chauvet-Villaret, je suis un jeune passionné de jazz, mais aussi d’informatique (et de montagne).  
-Depuis petit, je m’intéresse à cette culture si vaste du jazz et j’ai toujours souhaité la partager. Je pense que ce site est un bon moyen !
 
-Ce site est sous license [CC BY 4.0](/license/), il fonctionne gratuitement grâce à [Cloudfare Pages](https://developers.cloudflare.com/pages/) pour l’hébergement, 
-[Hugo](https://gohugo.io/) pour la génération et [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) pour le thème. Merci beaucoup !
+Je me présente, Louis, un jeune passionné de jazz et d’informatique. J’ai toujours voulu partager la musique qui me
+faisait vibrer, je pense que ce site est un bon moyen :)
+
+Ce site est sous license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), il est hébergé gratuitement
+par [Cloudfare Pages](https://developers.cloudflare.com/pages/),
+généré par [Hugo](https://gohugo.io/) avec le thème [PaperMod](https://github.com/adityatelange/hugo-PaperMod/).
+
+Très curieux de vos retours, je vous souhaite une bonne lecture !

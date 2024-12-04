@@ -3,7 +3,7 @@ title = "Du groove à la fusion : le groupe ultime"
 date = 2024-05-02T20:50:56Z
 description = "Recommandation n°18 - The Headbangers"
 [cover]
-image = "posts/18.jpg"
+image = "images/18.jpg"
 caption = "Dorian Dutech, Thibaud Dufoy, Nicolas Gardel, (c ki le trombonniste ?), Ferdinand Doumerc, Jérôme Martineau-Ricotti & Philippe Burneau"
 +++
 

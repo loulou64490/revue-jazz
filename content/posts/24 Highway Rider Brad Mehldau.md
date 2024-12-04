@@ -3,7 +3,7 @@ title = "La maîtrise de la dissonnance"
 date = 2024-11-18
 description = "Recommandation n°24 - Highway Rider par Brad Mehldau"
 [cover]
-image = "posts/24.jpg"
+image = "images/24.jpg"
 caption = "Brad Mehldau"
 +++
 

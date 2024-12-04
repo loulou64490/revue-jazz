@@ -3,7 +3,7 @@ title = "40 melodies, 1 album"
 date = 2023-09-13
 description = "Recommandation n°10 - 40 melodies, par Ibrahim Maalouf"
 [cover]
-image = "posts/10.jpg"
+image = "images/10.jpg"
 caption = "François Delporte et Ibrahim Maalouf"
 +++
 

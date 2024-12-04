@@ -3,7 +3,7 @@ title = "La douceur de la trompette"
 date = 2024-04-16
 description = "Recommandation n°17 - Airelle Besson"
 [cover]
-image = "posts/17.jpg"
+image = "images/17.jpg"
 caption = "Airelle Besson"
 +++
 

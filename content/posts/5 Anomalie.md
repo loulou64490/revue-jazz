@@ -3,7 +3,7 @@ title = "Quand l'électro rejoint le jazz"
 date = 2023-09-03
 description = "Recommandation n°5 - Anomalie"
 [cover]
-image = "posts/5.jpg"
+image = "images/5.jpg"
 caption = "Nicolas Dupuis “Anomalie”"
 +++
 

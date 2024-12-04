@@ -3,7 +3,7 @@ title = "Encore de l'électro"
 date = 2024-11-10
 description = "Recommandation n°22 - Léon Phal"
 [cover]
-image = "posts/22.jpg"
+image = "images/22.jpg"
 caption = "Zacharie Ksyk, Rémi Bouyssière, Léon Phal, Arthur Alard & Gauthier Toux (pas sur la photo)"
 +++
 

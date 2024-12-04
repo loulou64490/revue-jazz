@@ -3,7 +3,7 @@ title = "Oser la tension"
 date = 2024-05-20T17:08:38Z
 description = "Recommandation n°20 - Alfa Mist"
 [cover]
-image = "posts/20.jpg"
+image = "images/20.jpg"
 caption = "Alfa Mist"
 +++
 

@@ -3,7 +3,7 @@ title = "Seven Seas, one album"
 date = 2023-09-06
 description = "Recommandation n°7 - Seven Seas, par Avishai Cohen"
 [cover]
-image = "posts/7.jpg"
+image = "images/7.jpg"
 caption = "Avishai Cohen"
 +++
 

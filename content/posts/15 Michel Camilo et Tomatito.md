@@ -3,7 +3,7 @@ title = "Duo aux sonorités espagnoles"
 date = 2024-03-28T19:37:41+01:00
 description = "Recommandation n°15 - Tomatito et Michel Camilo"
 [cover]
-image = "posts/15.jpg"
+image = "images/15.jpg"
 caption = "Tomatito et Michel Camilo"
 +++
 

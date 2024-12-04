@@ -3,7 +3,7 @@ title = "Comment j'ai découvert le jazz..."
 date = 2023-09-02
 description="Recommandation n°4 - Gogo Penguin"
 [cover]
-image="posts/4.jpg"
+image = "images/4.jpg"
 caption="Jon Scott, Chris Illingworth et Nick Blacka"
 +++
 J’aimerais vous parler du groupe qui m’a fait découvrir le jazz actuel, [Gogo Penguin](https://fr.wikipedia.org/wiki/GoGo_Penguin). Basé au royaume-uni, c'est un trio piano/contrebasse/batterie aux riffs rythmés mais toujours très mélodieux. C’est très facile à écouter et ils sont réguliers dans leurs albums, je veux dire qu’ils arrivent à se renouveler tout en gardant l’esprit principal de leur musique.

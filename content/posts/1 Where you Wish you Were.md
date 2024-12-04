@@ -3,7 +3,7 @@ title = 'Duo au sonorités orientales'
 date = 2023-08-31
 description = "Recommandation n°1 - Where you Wish you Were, par Bill Laurance et Michael League"
 [cover]
-image = "posts/1.jpg"
+image = "images/1.jpg"
 caption = "Bill Laurance & Michael League"
 +++
 

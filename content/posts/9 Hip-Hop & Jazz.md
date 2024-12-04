@@ -3,7 +3,7 @@ title = "Quand le Rap rejoint le Jazz"
 date = 2023-09-12
 description = "Recommandation n°9 - Playlist sur le Hip-Hop et le Jazz"
 [cover]
-image = "posts/9.jpg"
+image = "images/9.jpg"
 caption = "Panam Panic"
 +++
 

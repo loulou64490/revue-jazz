@@ -3,7 +3,7 @@ title = "Encore un contrebassiste israélien"
 date = 2023-11-21T19:40:23+01:00
 description = "Recommandation n°12 - Omer Avital"
 [cover]
-image = "posts/12.jpg"
+image = "images/12.jpg"
 caption = "Omer Avital"
 +++
 

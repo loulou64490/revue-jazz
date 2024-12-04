@@ -3,7 +3,7 @@ title = 'Un pianiste français remarquable'
 date = 2023-09-01
 description="Recommandation n°3 - Laurent Coulondre"
 [cover]
-image="posts/3.jpg"
+image = "images/3.jpg"
 caption="Laurent Coulondre"
 +++
 Aujourd’hui, je vais vous parler d’un pianiste français que j’adore : [Laurent Coulondre](https://fr.wikipedia.org/wiki/Laurent_Coulondre).
