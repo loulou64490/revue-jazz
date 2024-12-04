@@ -3,7 +3,7 @@ title = "Snarky Puppy et le Jazz fusion"
 date = 2023-09-21
 description = "Recommandation n°11 - Snarky Puppy"
 [cover]
-image = "posts/11.jpg"
+image = "images/11.jpg"
 caption = "Snarky Puppy"
 +++
 

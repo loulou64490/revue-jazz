@@ -3,7 +3,7 @@ title = "Un peu de groove français"
 date = 2024-04-07
 description = "Recommandation n°16 - Panam Panic"
 [cover]
-image = "posts/16.jpg"
+image = "images/16.jpg"
 caption = "Robin Notte, Alexandre Herichon, Pierre Elgrishi, Lucas Saint-Cricq et Tao Ehrlich"
 +++
 

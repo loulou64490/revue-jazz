@@ -3,7 +3,7 @@ title = "L'art de l'improvisation"
 date = 2023-09-04
 description = "Recommandation n°6 - The Köln Concert, par Keith Jarrett"
 [cover]
-image = "posts/6.jpg"
+image = "images/6.jpg"
 caption = "Keith Jarrett"
 +++
 

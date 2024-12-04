@@ -3,7 +3,7 @@ title = 'Les Égarés ont trouvés leur voie'
 date = 2023-08-31T17:47:19+01:00
 description = "Recommandation n°2 - Les Égarés, par Vincent Segal, Ballaké Sissoko, Emile Parisien et Vincent Peirani"
 [cover]
-image = "posts/2.jpg"
+image = "images/2.jpg"
 caption = "Vincent Segal, Ballaké Sissoko, Emile Parisien et Vincent Peirani"
 +++
 

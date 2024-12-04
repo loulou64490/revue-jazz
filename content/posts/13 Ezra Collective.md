@@ -3,7 +3,7 @@ title = "Quintet multystyle dansant !"
 date = 2024-03-27
 description = "Recommandation n°13 - Ezra Collective"
 [cover]
-image = "posts/13.jpg"
+image = "images/13.jpg"
 caption = "Femi Koleoso, TJ Koleoso, Joseph Armon-Jones, Ife Ogunjobi et James Mollison (pas dans l'ordre)"
 +++
 

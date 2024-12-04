@@ -3,7 +3,7 @@ title = "Quand le classique rejoint le Jazz"
 date = 2024-03-28T10:25:41+01:00
 description = "Recommandation n°14 - Eugen Cicero"
 [cover]
-image = "posts/14.jpg"
+image = "images/14.jpg"
 caption = "Eugen Cicero"
 +++
 
