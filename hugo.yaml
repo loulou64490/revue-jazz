@@ -20,7 +20,9 @@ params:
     Content: Quelques recommandations de jazz actuel proposées par Louis
   DateFormat: Monday 2 January 2006
   defaultTheme: light
-  disableScrollToTop: True
+  disableThemeToggle: true
+  disableScrollToTop: true
+  comments: true
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true

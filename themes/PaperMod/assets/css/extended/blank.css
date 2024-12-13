@@ -10,3 +10,11 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 iframe {
     border-radius: var(--radius);
 }
+
+/*.giscus {*/
+
+/*}*/
+
+.giscus-frame {
+    border-radius: 0;
+}
