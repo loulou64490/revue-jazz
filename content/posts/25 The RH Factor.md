@@ -1,6 +1,6 @@
 +++
 title = "Hard Groove !"
-date = 2024-12-04
+date = 2025-02-16
 description="Recommandation n°25 - The RH Factor"
 [cover]
 image = "images/25.jpg"
