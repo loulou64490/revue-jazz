@@ -6,10 +6,10 @@ description="Recommandation n°27 - Mes titres favoris"
 image = "images/27.jpg"
 caption="Photo prise avec mon iPhone 4s"
 +++
-Aujourd'hui je vous présente une playlist de mes titres favoris.
-Je ne souhaite pas forcément écrire un article dédié sur l'artiste ou l'album dont chaque titre est issu. Je pense qu'une playlist est le meilleur moyen de vous les faire découvrir.  
+Aujourd'hui, je vous présente une playlist de mes titres favoris.  
+Je ne souhaitais pas forcément écrire un article dédié sur l'artiste ou l'album dont chaque titre est issu. Je pense qu'une playlist est le meilleur moyen de vous les faire découvrir.  
 
-J'ai choisi des titres accessible de la scène jazz actuel. Vous y retrouverez Brad Mehldau, Aaron Parks, Bill Laurance, Leon Phal, Tigran Hamasyan, Iiro Rantala, E. S. T, Avishai Cohen, etc.  
+J'ai choisi des titres accessibles de la scène jazz actuel. Vous y retrouverez Brad Mehldau, Aaron Parks, Bill Laurance, Leon Phal, Tigran Hamasyan, Iiro Rantala, E. S. T, Avishai Cohen, etc.  
 Ce sont sûrement les morceaux qui me définissent le plus, je vous conseille vraiment de les écouter !
 
 {{< rawhtml >}}
