@@ -23,7 +23,7 @@
             "type": "shell",
             "command":".vscode/new.sh",
             "windows": {
-                "command": ""
+                "command": ".vscode\\new.cmd"
               },
         }
     ]
