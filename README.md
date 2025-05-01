@@ -1,4 +1,4 @@
-![](banner.png)
+![](image/banner.png)
 ## Ressources
 Framework : [Hugo](https://github.com/gohugoio/hugo)  
 Thème : [PaperMod](https://github.com/adityatelange/hugo-PaperMod/)  
