@@ -16,8 +16,8 @@ Très curieux de vos retours, je vous souhaite une bonne lecture !
 
 ---
 
-Ce site open-source est sous license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-Vous pouvez y contribuez et suggerer des modifications sur son dépot [GitHub](https://github.com/loulou64490/revue-jazz)
+Ce site open-source est sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Vous pouvez y contribuer et suggérer des modifications sur son dépôt [GitHub](https://github.com/loulou64490/revue-jazz)
 
 __Outils utilisés__  
 Nom de domaine [OVH](https://www.ovhcloud.com/fr/)  
@@ -32,4 +32,4 @@ Transfert des playlists [Soundiiz](https://soundiiz.com/)
 Icone [Icons8](https://icones8.fr/)
 
 
-Hormis le nom de domaine qui me coute seulement 7€ par ans, tout ces outils géniaux sont gratuits
+Hormis le nom de domaine qui me coute seulement 7€ par ans, tous ces outils géniaux sont gratuits
