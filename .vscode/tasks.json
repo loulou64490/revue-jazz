@@ -6,25 +6,26 @@
         {
             "label": "preview",
             "type": "shell",
-            "command":"hugo server",
+            "command": "hugo server",
             "windows": {
                 "command": ".vscode\\preview.cmd"
-              },
+            },
             "group": {
                 "kind": "build",
                 "isDefault": true
             },
             "presentation": {
                 "reveal": "silent"
-              }
+            }
         },
         {
             "label": "new post",
             "type": "shell",
-            "command":".vscode/new.sh",
+            "command": ".vscode/new.sh",
             "windows": {
                 "command": ".vscode\\new.cmd"
-              },
+            },
+            "problemMatcher": []
         }
     ]
 }
